@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Csharpintroduction": {
+      "commandName": "Project",
+      "commandLineArgs": "Mary had a little goat"
+    }
+  }
+}
